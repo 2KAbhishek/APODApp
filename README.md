@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/APODApp/main/images/screenshot.png" alt="APODApp Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/APODApp/main/images/screenshot.jpg" alt="APODApp Demo" style="width:100%">
   <br/>
   <figcaption>APODApp screenshot</figcaption>
 </figure>
