@@ -21,10 +21,7 @@ public class JSONParser {
     static JSONObject json = null;
     static String output = "";
 
-    // constructor
-    public JSONParser() {
-
-    }
+    public JSONParser() {}
 
     public JSONObject getJSONFromUrl(String url, List params) {
         URL _url;
